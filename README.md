@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Hi, I'm Mohseen Molla 👋
+💻 **Frontend Developer** | HTML • CSS • JavaScript • React • Bootstrap  
 
-<!--
-**MohseenMolla/MohseenMolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Portfolio:** [https://mohseenmolla.github.io](https://mohseenmolla.github.io)  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- HTML, CSS, JavaScript, Bootstrap
+- React.js, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mohseenmolla)
+- [GitHub](https://github.com/MohseenMolla)
+
