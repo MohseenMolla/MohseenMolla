@@ -57,4 +57,4 @@ A comprehensive MERN application featuring a seamless user experience and a powe
 * **Email:** [Your Email Here]
 
 ---
-⭐️ *“Clean code is not written by chance, but by choice.”*
+
