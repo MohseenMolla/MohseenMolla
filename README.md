@@ -54,7 +54,7 @@ A comprehensive MERN application featuring a seamless user experience and a powe
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/mohseenmolla](https://www.linkedin.com/in/mohseenmolla)
 * **Portfolio/GitHub:** [github.com/MohseenMolla](https://github.com/MohseenMolla)
-* **Email:** [Your Email Here]
+
 
 ---
 
