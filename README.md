@@ -1,9 +1,9 @@
-<!-- 3D Isometric Animated Header Banner (Simplified reliable URL) -->
+<!-- 3D Isometric Animated Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00334e,100:00f7ff&height=230&section=header&text=Md%20Mohseen%20Molla&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20MERN%20Stack%20Specialist&descAlignY=62&descSize=18&descColor=ffffff" width="100%" />
 </div>
 
-<!-- Animated Typing Subtitle Highlighting Your Name & Stack -->
+<!-- Animated Typing Subtitle -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md+Mohseen+Molla+%F0%9F%91%8B;Full-Stack+Developer+%7C+Next.js+%26+MERN+Specialist;Architecting+Scalable+Web+Applications;Turning+Complex+Problems+Into+Clean+Production+Code" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Isometric 3D Developer Illustration + About Me -->
+<!-- 3D Isometric Developer Illustration + About Me -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -27,8 +27,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Reliable GitHub-Hosted 3D Isometric Developer Animation -->
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer-coding.gif" width="320" alt="3D Isometric Coding Animation" />
+      <!-- Reliable Stable Online 3D Coding Animation -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="3D Coding Animation" />
     </td>
   </tr>
 </table>
@@ -64,24 +64,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Analytics & Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Animation" width="100%" />
-</div>
-
-<br/>
-
-<!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub handle below -->
-<div align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0D1117&border=1F2937&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&border_color=1F2937" alt="Top Languages" />
-</div>
-
----
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:00334e,100:0d1117&height=120&section=footer" width="100%" />
-</div>
