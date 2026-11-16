@@ -1,66 +1,135 @@
-<!-- 3D Isometric Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00334e,100:00f7ff&height=230&section=header&text=Md%20Mohseen%20Molla&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20MERN%20Stack%20Specialist&descAlignY=62&descSize=18&descColor=ffffff" width="100%" />
-</div>
+# 👋 Hi, I'm Md Mohseen Molla
 
-<!-- Animated Typing Subtitle -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md+Mohseen+Molla+%F0%9F%91%8B;Full-Stack+Developer+%7C+Next.js+%26+MERN+Specialist;Architecting+Scalable+Web+Applications;Turning+Complex+Problems+Into+Clean+Production+Code" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Next.js+%26+React+Developer;Building+Modern+Web+Applications;AI+%26+Data+Science+Student" alt="Typing SVG" />
+
+### 🚀 Turning Ideas Into Powerful Digital Experiences
+
+<p>
+  <a href="https://mohseen.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/mohseen-molla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammedmoheen1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MohseenMolla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
-
-<br/>
-
-<!-- 3D Isometric Developer Illustration + About Me -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>
-        Hi, I'm <strong>Md Mohseen Molla</strong> — a passionate <strong>Full-Stack Developer</strong> focused on architecting scalable, secure, and production-ready web applications. From crafting responsive, high-performance user interfaces in <strong>Next.js & React</strong> to engineering resilient backend APIs with <strong>Node.js & MongoDB</strong>, I thrive on turning complex ideas into clean, maintainable software.
-      </p>
-      <ul>
-        <li>🔭 <strong>Currently building:</strong> High-performance full-stack platforms & developer utilities</li>
-        <li>⚙️ <strong>Core Focus:</strong> Next.js App Router, RESTful APIs, Auth & Cloud Deployment</li>
-        <li>💡 <strong>Philosophy:</strong> Clean architecture, modular components, and intuitive UX</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Reliable Stable Online 3D Coding Animation -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="3D Coding Animation" />
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+## 👨‍💻 About Me
+
+I'm **Mohseen Molla**, a passionate Full-Stack Web Developer and Artificial Intelligence & Data Science student from Bangladesh.
+
+I specialize in building modern, responsive, and scalable web applications using the MERN stack and Next.js.
+
+- 🔭 Working on full-stack web applications and real-world projects.
+- 🌱 Exploring Next.js, TypeScript, AI, and advanced backend development.
+- 💡 Interested in AI-powered applications and modern web technologies.
+- 🎯 Focused on writing clean code and building practical solutions.
+- 🤝 Open to freelance projects, collaborations, and developer opportunities.
+- 📍 Based in Bangladesh.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma,python" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 MeeshoMart — E-commerce Platform
+A modern e-commerce solution featuring product management, shopping experiences, inventory updates, and checkout functionality.
+
+**Tech:** Next.js · Node.js · Express.js · MongoDB
+
+🔗 [Live Demo](https://meeshomart.netlify.app)
+
+### 🍔 FoodiesX — Food Ordering Platform
+A restaurant and food ordering application with dynamic menus, shopping cart, pagination, and order tracking.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB
+
+🔗 [Live Demo](https://foodiesx.netlify.app)
+
+### 🛍️ Di Shop — E-commerce Application
+A full-stack e-commerce system with product management, order processing, payments, and an admin dashboard.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB
+
+🔗 [Live Demo](https://dishop.netlify.app)
+
+### 🍳 DishDash — Recipe Application
+A responsive recipe application with meal search, dynamic recipe details, and organized ingredient lists.
+
+**Tech:** Next.js · React.js · Tailwind CSS
+
+🔗 [Live Demo](https://dishdash-cd85d.web.app)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-#### **Frontend & UI**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00F7FF)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohseenMolla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-#### **Backend & Database**
-![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![JWT](https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00F7FF)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohseenMolla&theme=tokyonight&hide_border=true" />
 
-#### **Cloud, DevOps & Tools**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohseenMolla&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
+
+## 🎓 Education
+
+**B.Sc. in Artificial Intelligence and Data Science**
+
+Green University of Bangladesh
+
+2024 – Present
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing new projects, innovative ideas, and collaboration opportunities.
+
+<div align="center">
+
+<a href="https://mohseen.netlify.app">🌐 Portfolio</a> •
+<a href="https://github.com/MohseenMolla">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/mohseen-molla/">💼 LinkedIn</a>
+
+📧 **muhammedmoheen1@gmail.com**
+
+---
+
+### 💙 Thanks for visiting my profile!
+
+*"Building the future, one line of code at a time."*
+
+</div>
